@@ -9,7 +9,7 @@ heres is an example of an image in markdown
 var myVar = "Hello, world!";
 ```
 
-'''var cd = rm ./sys32'''
+''' var cd = rm ./sys32 '''
 
 
 etc 
