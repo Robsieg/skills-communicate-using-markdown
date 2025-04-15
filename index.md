@@ -4,4 +4,14 @@
 
 heres is an example of an image in markdown
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+'''
+var cd = rm ./sys32
+'''
+
+
 etc 
