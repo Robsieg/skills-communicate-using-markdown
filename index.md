@@ -9,7 +9,9 @@ heres is an example of an image in markdown
 var myVar = "Hello, world!";
 ```
 
-''' var cd = rm ./sys32 '''
-
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 etc 
